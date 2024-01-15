@@ -7,4 +7,4 @@
 
 🖥️'Curso': 'Análise e Desenvolvimento de Sistemas',
 
-🛠️'Meu foco é': 'PYTHON! principalmente automações e tratamento de dados com excel e pandas' }
+🛠️'Meu foco é': 'PYTHON! Principalmente na analise de dados e automações' }
